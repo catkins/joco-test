@@ -6,6 +6,4 @@ aliases:
   - about-me
 author: Joseph Comer
 ---
-About me!! testing CMS
-
-![](/images/uploads/zoom.jpg)
+About me!! Testing CMS
