@@ -7,3 +7,5 @@ aliases:
 author: Joseph Comer
 ---
 About me!! testing CMS
+
+![](/images/uploads/zoom.jpg)
