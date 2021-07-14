@@ -1,9 +1,9 @@
 ---
-title: "About"
-description: "Joseph Comer"
-date: "2021-07-14"
-aliases: ["about-me",]
-author: "Joseph Comer"
+title: About
+description: Joseph Comer
+date: 2021-07-14
+aliases:
+  - about-me
+author: Joseph Comer
 ---
-
-About me!!
+About me!! testing CMS
