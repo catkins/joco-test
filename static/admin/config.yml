@@ -25,26 +25,31 @@ collections:
     label: "Page"
     files:
       - label: "About"
+        name: "about"
         file: "content/about.md"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - label: "Contact"
+        name: "contact"
         file: "content/contact.md"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - label: "CV"
+        name: "cv"
         file: "content/cv.md"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - label: "Projects"
+        name: "projects"
         file: "content/projects.md"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
 
       - label: "Research"
+        name: "research"
         file: "content/research.md"
         fields:
           - { label: "Body", name: "body", widget: "markdown" }
