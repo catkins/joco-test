@@ -49,7 +49,10 @@ customCSS = []
 # Custom SCSS
 customSCSS = []
 # Custom JS
-customJS = []
+customJS = [
+  "https://identity.netlify.com/v1/netlify-identity-widget.js",
+  "scripts/netlify-auth.js"
+]
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
