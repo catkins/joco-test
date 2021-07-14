@@ -7,14 +7,14 @@ backend:
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
+site_url: https://josephcomer.net
+locale: en
+
 collections:
   - name: "posts"
     label: "Post"
     create: true
     folder: "content/posts"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    filter:
-      field: language
-      value: en
     fields:
-      - { label: "Language", name: "language" }
+      - { label: "Body", name: "body", widget: "markdown" }
